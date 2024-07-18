@@ -1,1 +1,2 @@
-# Expense_Tracker
+# Expense-tracker
+Using MERN Stack
